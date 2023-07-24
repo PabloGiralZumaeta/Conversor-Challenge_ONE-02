@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.alura.cambioMoneda.cambios"},{"l":"com.alura.cambioMoneda.enum_divisas"},{"l":"com.alura.cambioMoneda.moneda"},{"l":"com.alura.conversor"},{"l":"com.alura.conversor.panels"},{"l":"com.alura.conversor.util"},{"l":"com.alura.Temperatura"},{"l":"com.alura.Temperatura.tipos"}];updateSearchResults();
